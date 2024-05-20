@@ -1,0 +1,11 @@
+/*
+Widget-Buffer Unwanted Linebreak Fix
+Autor: 		Fabián Sanhueza
+Website: 	https://jdfs.cl
+*/
+
+.cm-active.cm-line {
+	& img.cm-widgetBuffer {
+		display: none !important;
+	}
+}
