@@ -9,3 +9,7 @@ Website: 	https://jdfs.cl
 		display: none !important;
 	}
 }
+
+.markdown-source-view.mod-cm6 img.cm-widgetBuffer {
+	display: none !important;
+}
